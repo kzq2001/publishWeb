@@ -1,0 +1,37 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:291px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u122_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:31px;
+  height:14px;
+}
+#u122 {
+  position:absolute;
+  left:260px;
+  top:135px;
+  width:31px;
+  height:14px;
+  font-size:11px;
+  color:#000000;
+}
+#u123 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:31px;
+  white-space:nowrap;
+}
