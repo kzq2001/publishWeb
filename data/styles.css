@@ -24,6 +24,15 @@
 }
 .ellipse {
 }
+._形状 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
 .image {
 }
 .placeholder {
@@ -84,16 +93,19 @@
 ._文本段落 {
   text-align:left;
 }
+.paragraph {
+  text-align:left;
+}
 .line {
 }
 .arrow {
 }
-._形状 {
+._形状1 {
   font-family:'Arial Normal', 'Arial';
   font-weight:normal;
   font-style:normal;
 }
-.paragraph {
+.paragraph1 {
   text-align:left;
 }
 .text_field {
@@ -118,6 +130,8 @@
 .radio_button {
   text-align:left;
 }
+._流程形状 {
+}
 .html_button {
   text-align:center;
 }
@@ -125,6 +139,8 @@
   text-align:left;
 }
 .table_cell {
+}
+._连接线 {
 }
 .menu_item {
 }
@@ -168,10 +184,31 @@
   font-size:32px;
   text-align:left;
 }
+.heading_2 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
 .shape1 {
 }
 .image1 {
   color:#000000;
 }
 .vertical_line {
+}
+._图片2 {
+  color:#000000;
+}
+._形状2 {
+}
+._提交按钮 {
+  color:#000000;
+}
+._水平线 {
+}
+._文本框 {
+  color:#000000;
+  text-align:left;
 }
